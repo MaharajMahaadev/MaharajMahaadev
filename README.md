@@ -1,5 +1,5 @@
 ## About Me:
-Hi I am <b>Maharaj Mahaadev</b>. I'm a Aspiring AI, full stack and Software Engineer.<br> - I’m currently working on 'My Mark'<br> - I’m currently learning React<br> - Ask me about Full Stack, Machine Learning
+Hi I am <b>Maharaj Mahaadev</b>. I'm an aspiring AI, Full Stack and Software Engineer.<br> - I’m currently working on a couple of projects<br> - I’m in the process of learning React<br> - Ask me about Full Stack, Machine Learning and DSA.
 
 
 ## Socials:
