@@ -4,10 +4,11 @@ Hi I am <b>Maharaj Mahaadev</b>. I'm an aspiring AI, Full Stack and Software Eng
 
 ## Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/maharaj-mahaadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maharaj-mahaadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="25" width="40" /></a>
 <a href="https://leetcode.com/Maharaj_Mahaadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/e20cskkyj" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-<a href="https://medium.com/@e20cse085" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="Medium" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/e20cskkyj" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" height="35" width="40" /></a>
+<a href="https://medium.com/@e20cse085" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="Medium" height="30" width="30" /></a>
+<a href="https://maharajmahaadev.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_zQS-jCqrJDJTYUet_Koo7HeBTgRjsbe4dciG4o&s" alt="Portfolio Website" height="30" width="30" /></a>
 </p>
 
 
