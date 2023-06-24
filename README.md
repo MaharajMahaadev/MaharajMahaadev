@@ -18,7 +18,7 @@ Hi I am <b>Maharaj Mahaadev</b>. I'm an aspiring AI, Full Stack and Software Eng
 <div align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaharajMahaadev&theme=nord&hide_border=false" alt="GitHub Streak Stats" width="700">
     <img src="https://github-readme-stats.vercel.app/api?username=MaharajMahaadev&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaharajMahaadev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaharajMahaadev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="320">
 </div>
 
 ## Random Dev Quote
