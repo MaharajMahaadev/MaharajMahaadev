@@ -4,11 +4,11 @@ Hi I am <b>Maharaj Mahaadev</b>. I'm an aspiring AI, Full Stack and Software Eng
 
 ## Socials:
 <p align="left">
-<a href="https://maharajmahaadev.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio%20Website-ef4444.svg?style=for-the-badge&logoColor=white" alt="Portfolio Website" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/maharaj-mahaadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="25" width="40" /></a>
-<a href="https://leetcode.com/Maharaj_Mahaadev/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/maharajmahaadev/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height="35" width="40" /></a>
-<a href="https://medium.com/@e20cse085" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="Medium" height="30" width="30" /></a>
+<a href="https://maharajmahaadev.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio%20Website-ef4444.svg?style=for-the-badge&logoColor=white" alt="Portfolio Website" height="30"/></a>
+<a href="https://www.linkedin.com/in/maharaj-mahaadev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30"/></a>
+<a href="https://leetcode.com/Maharaj_Mahaadev/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" height="30"/></a>
+<a href="https://www.geeksforgeeks.org/user/maharajmahaadev/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height="30" /></a>
+<a href="https://medium.com/@e20cse085" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30"/></a>
 </p>
 
 
